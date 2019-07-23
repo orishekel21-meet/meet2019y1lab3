@@ -1,0 +1,5 @@
+person1=input("what is the age of the first person")
+print(person1)
+person2=input("what is the age of the first person")
+print(person2)
+print(int(person1>person2))
