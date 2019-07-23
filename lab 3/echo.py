@@ -1,0 +1,5 @@
+user=input("yo how is it going ")
+print(user)
+print('hii'.upper())
+print("HALLO".lower())
+print('hg,khkkfSNSLIULD'.swapcase())
